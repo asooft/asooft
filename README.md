@@ -128,6 +128,8 @@ Automation workflows for lead management, notifications, reporting, customer fol
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asooft&layout=compact&theme=tokyonight)
 
+---
+
 ## 🌐 Connect With Me
 
 [![Website](https://img.shields.io/badge/Website-sooftit.com-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://sooftit.com)
