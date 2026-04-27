@@ -114,7 +114,7 @@ Automation workflows for lead management, notifications, reporting, customer fol
 
 ## 🚀 Featured Areas
 
-- Software Development & Business Systems ████████████████████
+- Software Development & Business Systems
 - Artificial Intelligence & Deep Learning
 - Medical Imaging & Computer Vision
 - Research Coding & Data Analysis
@@ -122,6 +122,11 @@ Automation workflows for lead management, notifications, reporting, customer fol
 - Web, Desktop, and Mobile Applications
 
 ---
+
+```md
+## 🧰 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asooft&layout=compact&theme=tokyonight)
 
 ## 🌐 Connect With Me
 
