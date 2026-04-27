@@ -112,11 +112,14 @@ Automation workflows for lead management, notifications, reporting, customer fol
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Areas
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=asooft&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asooft&layout=compact&theme=tokyonight)
+- Software Development & Business Systems ████████████████████
+- Artificial Intelligence & Deep Learning
+- Medical Imaging & Computer Vision
+- Research Coding & Data Analysis
+- n8n Automation Workflows
+- Web, Desktop, and Mobile Applications
 
 ---
 
