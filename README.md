@@ -123,7 +123,6 @@ Automation workflows for lead management, notifications, reporting, customer fol
 
 ---
 
-```md
 ## 🧰 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=asooft&layout=compact&theme=tokyonight)
